@@ -1,7 +1,7 @@
 # Landing Paulinho
 
 ## Landing Page
-![image](https://github.com/AmadeuAnjos/paulinho-mec/assets/53497771/292b1ef7-ce54-47b2-bea4-5c80e55c9b4d)
+![image](https://github.com/AmadeuAnjos/mec-paulo/assets/53497771/4b31356e-6204-45bb-8434-078dcfadb177)
 
 
 
@@ -13,10 +13,10 @@ The idea of creating a website for Paulinho as a customer acquisition tool came 
 
 
 ## Objetivos
-- [] Criar logomarca.
-- [] Criar menu.
+- [X] Criar logomarca.
+- [X] Criar menu.
 - [] Criar Sobre nós.
-- [] Serviços.
+- [X] Serviços.
 - [X] Portifólio.
 - [X] Avaliação.
 - [X] Contato.
